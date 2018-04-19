@@ -25,7 +25,11 @@ Presentations
 
 -   [R-Ladies Presentation Ninja with xaringan by Alison Presmanes Hill](https://alison.rbind.io/slides/rladies-demo-slides.html)
 
--   []()
+-   [Take A Sad Plot & Make It Better: A Case Study with R and ggplot2 by Alison Presmanes Hill](https://apreshill.github.io/ohsu-biodatavis/slides.html)
+
+-   [Presentation Ninja with xaringan by Yihui Xie](https://slides.yihui.name/xaringan/)
+
+-   [Steve's Xaringan Presentation: POSC 0000 – It Would Be Cool If This Were an Actual Class Presentation by Steven V. Miller](http://svmiller.com/miscellany/svm-xaringan-example.html)
 
 -   []()
 
@@ -47,6 +51,11 @@ Presentations
 
 -   []()
 
--   []()
+About {xaringan}
+----------------
 
--   []()
+-   [Why xaringan / remark.js for HTML5 Presentations? by Yihui Xie](https://yihui.name/en/2017/08/why-xaringan-remark-js/)
+
+-   [A Twist of Hygge in xaringan by Yihui Xie](https://yihui.name/en/2018/02/xaringan-hygge/)
+
+-   [Make Your Presentations Fun in Xaringan by Steven V. Miller](http://svmiller.com/blog/2018/02/r-markdown-xaringan-theme/)
