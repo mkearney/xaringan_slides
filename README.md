@@ -11,7 +11,7 @@ Presentations
 
 -   [Is the Parkland Event Different? Using R to Investigate the Persistence of Public Interest in Mass Shooting Events by Ben Marwick](https://rawgit.com/benmarwick/Seattle-UseR-Group-April-2018/master/Seattle-UseR-Group-April-2018.html)
 
--   [Power Analysis for Longitudinal 2- and 3-Level Models Challenges and Some Solutions Using the R Package powerlmm by Kristoffer Magnusson](http://rpsychologist.com/slides/powerlmm-intro-20180411/index.html)
+-   [Power Analysis for Longitudinal 2- and 3-Level Models Challenges and Some Solutions Using the R Package powerlmm by Kristoffer Magnusson](http://rpsychologist.com/slides/powerlmm-intro-20180411/)
 
 -   [Political Information, New Media, and Twitter bots by Michael W. Kearney](https://mkearney.github.io/dsa_execweek_talk/)
 
