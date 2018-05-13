@@ -31,7 +31,7 @@ Presentations
 
 -   [Steve's Xaringan Presentation: POSC 0000 – It Would Be Cool If This Were an Actual Class Presentation by Steven V. Miller](http://svmiller.com/miscellany/svm-xaringan-example.html)
 
--   []()
+-   [Decoding the Alt-Right - A Machine Learning Project](https://decoding-the-altright.netlify.com/)
 
 -   []()
 
